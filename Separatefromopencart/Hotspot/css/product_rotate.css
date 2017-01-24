@@ -1,0 +1,10 @@
+#zoomslider{display:none;}
+
+.product_rotate_buttons{padding-right:10px;}
+
+#product_rotate_leftframe,
+#product_rotate_upframe,
+#product_rotate_antirotate
+{padding-left:35px;}
+
+#product_interactivity_audio{display:none;}

@@ -1,0 +1,4 @@
+[26-Nov-2015 00:52:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home3/vincent/public_html/3DWEBCOMMERCE.COM/FarmToys_3D/imagemap.php on line 7
+[25-May-2016 08:20:00 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home3/vincent/public_html/3DWEBCOMMERCE.COM/Separatefromopencart/dbconnect.php on line 2
+[25-May-2016 08:20:38 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home3/vincent/public_html/3DWEBCOMMERCE.COM/Separatefromopencart/dbconnect.php on line 2
+[27-May-2016 07:28:39 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home3/vincent/public_html/3DWEBCOMMERCE.COM/Separatefromopencart/dbconnect.php on line 2
