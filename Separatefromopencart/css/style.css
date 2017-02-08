@@ -1,0 +1,129 @@
+
+
+
+
+        .overlay 
+
+        {
+
+          background: #999;
+
+          position: absolute;
+
+          left: 0;
+
+          right: 0;
+
+          bottom: 0;
+
+          top: 0;
+
+          opacity: 0.55;
+
+          filter: alpha(opacity=95);
+
+          z-index: 10000;
+
+          height: 1600px;
+
+          width: 100%;
+
+        }
+
+        
+
+        .popup 
+
+        {
+
+          background: #fff;
+
+          border-radius: 10px;
+
+          padding: 9px;
+
+          position: fixed;
+
+          z-index: 10010;
+
+          border: 10px solid #fdb233 ;
+
+        }
+
+        
+
+        .popup div.action input 
+
+        { 
+
+          background: transparent;
+
+          color: #FB0000;
+
+          border: 0px;
+
+        }
+
+        
+
+        .closePopup
+
+        {
+
+          font-size: 30px;
+
+          line-height: .5;
+
+          position: absolute;
+
+          /*top: 17px;*/
+
+          /*right: 14px;*/ 
+
+          top: 19px;/*Default 17px Jithin Modified on 22 Jan 2016 as per INW-1 [JIRA]*/
+
+          right: 4px;/*Default 14px Jithin Modified on 22 Jan 2016 as per INW-1 [JIRA]*/
+
+          color: #aaa;
+
+          text-shadow: 0 -1px 1px rbga(0,0,0,.6);
+
+          font-weight: bold;
+
+          cursor: pointer;
+
+        }
+
+
+
+        iframe 
+
+        {
+
+          position: absolute;
+
+          top: 0;
+
+          bottom: 0;
+
+          left: 0;
+
+          right: 0;
+
+          height: 100%;
+
+          width: 100%;
+
+          border-radius: 15px;
+
+          padding: 5px; 
+
+        }
+
+  #interactivity_0,#interactivity_1,#interactivity_3
+
+  {
+
+    border-radius: 3px;
+
+  }
